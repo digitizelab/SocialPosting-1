@@ -1,0 +1,7 @@
+{
+    "require": {
+        "abraham/twitteroauth": "0.6.4",
+        "twbs/bootstrap": "^3.3",
+        "digitizelab/socialposting": "dev-master"
+    }
+}
