@@ -27,6 +27,8 @@ Eg: configuration file format
 
 Test your app by navigating to your site's homepage.
 
+>> Note : Please click **Authorize** under Twitter in homepage to get started before posting.
+
 ----------
 
 
